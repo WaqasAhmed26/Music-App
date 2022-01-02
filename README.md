@@ -1,16 +1,28 @@
-# music
+# Music App UI
 
-A new Flutter project.
+This project is containing the Flutter UI/UX code for E-Wallet Mobile App. The Code is clean and easy to understand if you have basic knowledge of Flutter.
 
-## Getting Started
+The following Flutter widgets are mainly used in this project:
+-Scaffold
+-SafeArea
+-Container
+-Text
+-TextStyle
+-Image
+-SVG
+-Icon
+-Row
+-Center
+-Stack
+-Inkwell
+-Text Field
+-Column
 
-This project is a starting point for a Flutter application.
+### Preview
+[Click Here to check the preview](https://www.behance.net/gallery/134211691/Flutter-UI-for-Music-App?)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Final Comments
+I'm running a digital agency. Feel free to visit: [IT Innovation](http://itinnovation.pk/)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Contact me on LinkedIn: [WAQAS AHMED](https://linkedin.com/in/waqasahmed26)
