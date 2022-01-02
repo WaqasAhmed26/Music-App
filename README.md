@@ -1,6 +1,6 @@
 # Music App UI
 
-This project is containing the Flutter UI/UX code for E-Wallet Mobile App. The Code is clean and easy to understand if you have basic knowledge of Flutter.
+This project is containing the Flutter UI/UX code for Music Mobile App. The Code is clean and easy to understand if you have basic knowledge of Flutter.
 
 The following Flutter widgets are mainly used in this project:
 -Scaffold
